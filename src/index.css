@@ -1,0 +1,6 @@
+.fondo{
+    background-image: url('/public/img/gjh.png');
+    background-size: 85%; /* Esto asegura que la imagen cubra todo el contenedor */
+    background-attachment: fixed; /* Esto hace que la imagen de fondo sea fija */
+    background-position: center; /* Esto centra la imagen de fondo */
+}
